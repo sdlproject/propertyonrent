@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">propertyonrent</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notification</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_dashboard">Dashboard</string>
+</resources>
